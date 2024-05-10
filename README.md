@@ -16,3 +16,8 @@ FALLBACK DATA:
 ORIGINAL DATA:
 ![Screenshot (248)](https://github.com/KamalakannanKKK/SpringBoot-Cloud-Eureka-Feign-Hystrix/assets/109393676/9f47bbfd-5a64-449b-9608-be05075430c7)
 
+Hystrix DashBoard:
+![Screenshot (249)](https://github.com/KamalakannanKKK/SpringBoot-Cloud-Eureka-Feign-Hystrix/assets/109393676/4d16452f-0b39-4498-81ae-836356e6b314)
+
+Hystrix Stream:
+![Screenshot (252)](https://github.com/KamalakannanKKK/SpringBoot-Cloud-Eureka-Feign-Hystrix/assets/109393676/a5635540-9afc-45c1-9a7a-94d1a1234bdb)
